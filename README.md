@@ -35,13 +35,16 @@ During my studies, I specialized in Web Development (.NET, JavaScript) and Softw
   <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </div>
 
 ### Web, Data & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/xamarin-%233498DB.svg?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
+  <img src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -64,5 +67,3 @@ During my studies, I specialized in Web Development (.NET, JavaScript) and Softw
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rubino2907&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=00BFFF" alt="Top Langs" />
   <br>
 </div>
-
----
