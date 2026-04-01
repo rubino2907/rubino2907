@@ -14,7 +14,7 @@
 
 <hr>
 
-## :male-technologist: About Me
+## 👨🏻‍💻 About Me
 
 I'm currently working as a **Full Stack Developer** at **Struktigen**.
 
